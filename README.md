@@ -10,4 +10,4 @@ I am a student of Kazan Federal University. I mainly write in the following lang
 and indulge with the following languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23239120.svg?style=for-the-badge&logo=python&logoColor=white)
