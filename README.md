@@ -25,6 +25,7 @@ val developer = Developer(
 
 🎯 **Android разработчик** с фокусом на современных технологиях и лучших практиках разработки  
 📱 Специализируюсь на **Kotlin**, **Android SDK**
+
 🚀 Стремлюсь создавать инновационные и качественные мобильные решения  
 💡 Интересуюсь архитектурой приложений, чистым кодом и новейшими технологиями
 
@@ -76,8 +77,7 @@ val developer = Developer(
 ## 📊 GitHub Statistics | Статистика
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Glevelll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Glevelll&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Glevelll&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
