@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gleb%20-%20Android%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Android+Developer+🚀;Kotlin+%7C+IoT+%7C+AI+Enthusiast+💡;Building+Innovative+Mobile+Apps+📱" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Android%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <p align="center">
