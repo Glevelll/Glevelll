@@ -122,7 +122,7 @@ val developer = Developer(
   </tr>
   <tr>
     <td align="center">🤖</td>
-    <td><b>AI/IoT</b><br/>Интеграция AI</td>
+    <td><b>AI</b><br/>Интеграция AI</td>
   </tr>
 </table>
 
