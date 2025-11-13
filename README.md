@@ -87,8 +87,7 @@ val developer = Developer(
 ## 🎯 Current Focus | Текущий фокус
 
 ```kotlin
-🔭 Работаю над: Инновационными Android-проектами с использованием AI
-🌱 Изучаю: Jetpack Compose, Kotlin Multiplatform
+🔭 Работаю над: Android-проектами с использованием современных технологий
 👯 Открыт к: Коллаборации над интересными open-source проектами
 ```
 
@@ -99,7 +98,7 @@ val developer = Developer(
 <table align="center">
   <tr>
     <td align="center">📱</td>
-    <td><b>Android Development</b><br/>Глубокое понимание Android SDK, lifecycle, best practices</td>
+    <td><b>Android Development</b><br/>Android SDK, lifecycle, best practices</td>
   </tr>
   <tr>
     <td align="center">🏛️</td>
@@ -122,7 +121,7 @@ val developer = Developer(
     <td><b>AI</b><br/>Интеграция AI</td>
   </tr>
 </table>
-### 🤝 Открыт для интересных предложений и коллабораций!
+🤝 Открыт для интересных предложений и коллабораций!
 
 </div>
 
