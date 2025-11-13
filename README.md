@@ -48,7 +48,6 @@ val developer = Developer(
   <img src="https://img.shields.io/badge/Room-0080FF?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" />
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiveData-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/ViewModel-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Navigation-0088CC?style=for-the-badge&logo=android&logoColor=white" />
 </p>
@@ -68,7 +67,6 @@ val developer = Developer(
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -92,7 +90,6 @@ val developer = Developer(
 🔭 Работаю над: Инновационными Android-проектами с использованием AI
 🌱 Изучаю: Jetpack Compose, Kotlin Multiplatform
 👯 Открыт к: Коллаборации над интересными open-source проектами
-⚡ Факт: Верю, что чистый код и хорошая архитектура - ключ к успеху проекта
 ```
 
 ---
@@ -125,13 +122,6 @@ val developer = Developer(
     <td><b>AI</b><br/>Интеграция AI</td>
   </tr>
 </table>
-
----
-
-## 📫 Contact Me | Связаться со мной
-
-<div align="center">
-
 ### 🤝 Открыт для интересных предложений и коллабораций!
 
 </div>
